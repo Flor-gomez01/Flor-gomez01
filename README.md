@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Flor</a></h1>
-<h3 align="center">I'm a biologist passionate about data and technology 🌍</h3>
+<h3 align="center">I'm a biologist and passionate about data and technology 🌍</h3>
 
 <p align="center">
   <img src="https://i.gifer.com/TIQo.gif" alt="Geospatial analysis" width="500" height="300"/>

@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Florencia Gómez Osuna</a></h1>
+<h1 align="center">👋 Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank">Flor</a></h1>
 <h3 align="center">I'm a biologist passionate about data and technology 🌍</h3>
 
 <p align="center">

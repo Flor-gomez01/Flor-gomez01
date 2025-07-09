@@ -11,7 +11,7 @@
 
 - 🎓 Academic background in Exact and Natural Sciences, focused on data modelling.
 - 🔭 Currently working at the <a href="http://cad.unne.edu.ar/servicios.php" target="_blank">High Performance Computing Center of the Northeast (Argentina)</a>, applying data science and geospatial modeling techniques.
-- 🌐 Interested in the intersection of biology, environment, climate, and emerging technologies.
+- 🌐 Interested in the intersection of data and emerging technologies.
 - 🤝 Open to interdisciplinary collaborations, especially in data science projects.
 - 📈 Continuously learning about language models, data visualization, and deep learning.
 - ✍️ Academic publications in biology and applied technologies: [My ORCID](https://orcid.org/0009-0009-2812-0913).
